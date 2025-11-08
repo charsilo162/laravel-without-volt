@@ -26,8 +26,6 @@ Live Demo: `http://127.0.0.1:8000/api/tasks`
 
 ---
 
-## One-Click Setup (30 seconds)
-
 # ONE LINE TO RULE THEM ALL
 composer install --no-dev && \
 cp .env.example .env && \
